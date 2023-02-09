@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+kafka:
+  bootstrap-server:
+  client-role: producer
